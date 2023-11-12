@@ -5,7 +5,7 @@ Gera de forma automatica uma estrutura básica de pastas e arquivos para iniciar
 
 ### Objetivo Geral
 
-O seguinte projeto objetiva a criação de pacote python responsável por criar uma estrura básica, de forma automática, para  um projeto Python, gerando todas as pastas e arquivos minimamente necessários para organizar um projeto.
+O seguinte projeto objetiva a criação de um pacote python para geração, de forma automática, de uma estrura básica para um projeto Python, gerando todas as pastas e arquivos minimamente necessários para organizar um projeto.
 
 por estrutura básica chamamos a seguinte estrutura:
 
